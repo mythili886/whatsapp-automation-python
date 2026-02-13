@@ -13,7 +13,7 @@ External Requirements: WhatsApp Web logged in via a default browser.
 
 3. Step-by-Step Execution Process
 Step 1: Environment Preparation
-Created a new Python project in PyCharm located at C:\Users\Chandrakala\PycharmProjects\PythonProject.
+Created a new Python project in PyCharm located at C:\PythonProject\whatsapp- automation-python
 
 Attempted installation via Terminal using pip install pywhatkit, which resulted in a "command not found" error.
 
