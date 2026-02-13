@@ -45,13 +45,12 @@ Python
 import pywhatkit
 
 # Function to send message immediately
+
 pywhatkit.sendwhatmsg_instantly("+910000000000", "Hello! This is an automated message.", wait_time=20)
 
 5. Conclusion
 This project successfully demonstrates the power of Python automation to simplify daily digital tasks.
 
 By integrating the PyCharm IDE with GitHub, a professional development workflow was established, allowing for safe code storage and version tracking.
-
-Key lessons learned include the importance of managing wait times for browser automation and the necessity of securing personal information (like phone numbers) before sharing code publicly.
 
 The final application provides a reliable foundation for more advanced features, such as scheduled group messaging or automated image sharing.
