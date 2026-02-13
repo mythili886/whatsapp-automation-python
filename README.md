@@ -46,6 +46,7 @@ import pywhatkit
 
 # Function to send message immediately
 pywhatkit.sendwhatmsg_instantly("+910000000000", "Hello! This is an automated message.", wait_time=20)
+
 5. Conclusion
 This project successfully demonstrates the power of Python automation to simplify daily digital tasks.
 
